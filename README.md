@@ -26,4 +26,4 @@ Here are the features in summary:
 You can provide feedback or raise any issues/ bugs through the following means:
 * toloih@gmail.com
 ## Github Pages link
-You can view the live application by following this link https://collinsmuriuki.github.io/akan-name-generataor/
+The site is deployed at
