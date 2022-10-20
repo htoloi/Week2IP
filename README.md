@@ -1,8 +1,8 @@
 # Akan name generator
-#### Simple web app that generates an Akan name based on the date of birth and gender by determining the day one was born, 20/810/2022
+#### Simple web app that generates an Akan name based on the date of birth and gender by determining the day one was born, 20/10/2022
 ![alt text](images/app.jpg)
 
-![alt text](images/result.jpg)
+![alt text](images/results.jpg)
 
 ## Author
 Hassan Bakhowe Toloi
